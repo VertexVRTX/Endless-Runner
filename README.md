@@ -81,7 +81,6 @@ The player runs through a procedural environment, avoids obstacles, and collects
 
 ## Screenshots / Video
 
-<img width="1919" height="1079" alt="Screenshot_31" src="https://github.com/user-attachments/assets/44253953-8167-44b1-a6af-0a28450226e8" />
 
 ---
 
