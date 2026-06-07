@@ -101,4 +101,4 @@ The character uses an **Animator Controller** paired with a **1D Blend Tree** to
 
 ### Play in Browser (Quick Demo)
 You can play the fully functional WebGL demo directly in your browser without downloading anything:
-👉 **[Play Endless Runner Demo on itch.io]((https://vertexvrtx.itch.io/endless-runner-demo)**
+**[Play Endless Runner Demo on itch.io](https://vertexvrtx.itch.io/endless-runner-demo)**
