@@ -6,6 +6,7 @@ The player runs through a procedural environment, avoids obstacles, and collects
 
 ---
 
+<img width="600" height="337" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/ee9629cb-05e2-47ed-a0bc-6d9ee1fdaf93" />
 
 ## Gameplay
 
