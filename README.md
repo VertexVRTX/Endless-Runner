@@ -39,7 +39,7 @@ The player runs through a procedural environment, avoids obstacles, and collects
 - Score tracking system
 - Collision-based game over
 
-<img width="600" height="337" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/73b22fc6-fc6e-422d-97f6-918c229361c9" />
+<img width="600" height="337" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/80c72d76-3dcf-4a8e-aba1-605f0ce26511" />
 
 
 ### Visual Effects
