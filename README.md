@@ -96,7 +96,7 @@ The character uses an **Animator Controller** paired with a **1D Blend Tree** to
 
 ### Run the Code in Unity
 1. Open project in Unity (2022.3+ recommended)
-2. Open the Main Scene
+2. Open the MainMenu Scene
 3. Press Play
 
 ### Play in Browser (Quick Demo)
