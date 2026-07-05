@@ -4,9 +4,20 @@ A 3D endless runner prototype developed in Unity.
 
 The player runs through a procedural environment, avoids obstacles, and collects coins while interacting with dynamic visual effects that enhance gameplay feedback.
 
----
-
 <img width="600" height="337" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/ee9629cb-05e2-47ed-a0bc-6d9ee1fdaf93" />
+
+## How to Run
+
+### Run the Code in Unity
+1. Open project in Unity (2022.3+ recommended)
+2. Open the MainMenu Scene
+3. Press Play
+
+### Play in Browser (Quick Demo)
+You can play the fully functional WebGL demo directly in your browser without downloading anything:
+**[Play Endless Runner Demo on itch.io](https://vertexvrtx.itch.io/endless-runner-demo)**
+
+---
 
 ## Gameplay
 
@@ -88,17 +99,3 @@ The character uses an **Animator Controller** paired with a **1D Blend Tree** to
 - Creating custom visual effects using Shader Graph
 - Using proximity-based feedback to improve game feel
 - Structuring scripts for scalability and readability
-
----
-
-
-## How to Run
-
-### Run the Code in Unity
-1. Open project in Unity (2022.3+ recommended)
-2. Open the MainMenu Scene
-3. Press Play
-
-### Play in Browser (Quick Demo)
-You can play the fully functional WebGL demo directly in your browser without downloading anything:
-**[Play Endless Runner Demo on itch.io](https://vertexvrtx.itch.io/endless-runner-demo)**
